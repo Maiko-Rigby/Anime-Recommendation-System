@@ -8,7 +8,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import warnings
 warnings.filterwarnings('ignore')
 
-print("🎨 t-SNE ANIME CLUSTERING ANALYSIS 🎨")
+print("t-SNE ANIME CLUSTERING ANALYSIS ")
 print("="*45)
 
 # Load and prepare the data
